@@ -11,5 +11,9 @@
 ```
 
   ```其他机器访问```
-  ### git clone git@xx.xxx.xx:/home/huixue/huixue.git
+  
+  ```html
+git clone git@xx.xxx.xx:/home/huixue/huixue.git
+  ```
+  
    
